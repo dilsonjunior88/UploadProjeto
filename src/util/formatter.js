@@ -1,0 +1,1 @@
+export const dataBr = data => new Date(data).toLocaleDateString() /*Formata data para o padrao local (Linguagem PC) */
